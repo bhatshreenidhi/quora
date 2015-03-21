@@ -1,0 +1,9 @@
+8
+ADD user u1 1.0 Adam
+ADD user u2 0.7 Afmd                             
+ADD user u3 1.2 Shree
+ADD user u6 1.1 afMd afmd
+ADD user u4 1.1 afmd
+ADD topic t1 0.5 Adam is good
+ADD user u5 0.3 bhat
+QUERY 10 Afmd
